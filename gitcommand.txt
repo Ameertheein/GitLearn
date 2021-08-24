@@ -8,3 +8,6 @@ vim app.py
 git add app.py
  git commit -m "My first commit from local"
  git push origin main
+ git branch develop
+ git checkout develop
+ git merge develop
